@@ -282161,3 +282161,31 @@ Git Logs Backup:
 Already up to date.
 To github.com:FLARE-forecast/SUNP-data.git
    d29969b5a..a8d4f9c80  lspa-computer-logs -> lspa-computer-logs
+[lspa-computer-logs 0f1eb9247] Daily Push
+ 1 file changed, 5 insertions(+)
+To github.com:FLARE-forecast/SUNP-data.git
+   a8d4f9c80..0f1eb9247  lspa-computer-logs -> lspa-computer-logs
+ 
+-------------- Mon 06/30/2025 15:16:49.47 --------------  
+ 
+Git Data Backup: 
+On branch sunp-buoy-data
+Your branch is ahead of 'origin/sunp-buoy-data' by 4 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+From github.com:FLARE-forecast/SUNP-data
+   d29969b5a..0f1eb9247  lspa-computer-logs -> origin/lspa-computer-logs
+Already up to date.
+remote: error: Trace: dddb8da7850f126a5c6f0fc975bd04d21cb5344e34ad44cce67381084c013406        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File CR6_SUNP_SUNP_buoy_met.csv is 100.12 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File CR6_SUNP_SUNP_buoy_met.csv is 100.09 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File CR6_SUNP_SUNP_buoy_met.csv is 100.06 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File CR6_SUNP_SUNP_buoy_met.csv is 100.02 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/SUNP-data.git
+ ! [remote rejected]     sunp-buoy-data -> sunp-buoy-data (pre-receive hook declined)
+error: failed to push some refs to 'github.com:FLARE-forecast/SUNP-data.git'
+ 
+Git Logs Backup: 
